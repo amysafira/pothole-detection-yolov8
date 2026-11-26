@@ -1,0 +1,3 @@
+ultralytics
+gradio==6.32.0
+opencv-python-headless
